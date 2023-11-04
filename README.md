@@ -42,5 +42,5 @@ To get started with Laravel Splade, follow these steps:
 
 Access the login page: [http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)
 
--   Email: [admin@admin.com](mailto:kahfi@gmail.com)
+-   Email: [kahfi@gmail.com](mailto:kahfi@gmail.com)
 -   Password: password
