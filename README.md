@@ -1,6 +1,6 @@
 ## Demo
 
-![alt text](https://i.imgur.com/ioQUvnA.png)
+![alt text](https://i.imgur.com/FdVJc1Y.png)
 ![alt text](https://i.imgur.com/MZLRhPX.png)
 
 ## Setup Instructions
